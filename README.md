@@ -1,2 +1,2 @@
-# hello-world
-Hello world repo
+# honors-fellow-lecture
+Honors fellow lecture: data files and python notebook file
